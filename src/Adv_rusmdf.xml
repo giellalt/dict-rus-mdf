@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r id="rusmdf" xml:lang="rus">
+<e> <lg> <l pos="Adv">бедно</l><phonet>беʼдно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>ашуста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">безбоязненно</l><phonet>безбояʼзненно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>аф пелезь, апак пельхть</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">беззаветно</l><phonet>беззавеʼтно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>седивакска, эсь прянь аф ужяльдезь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">безразлично</l><phonet>безразлиʼчно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>кс сембе сяка;</t></tg> </mg> <mg> <defNative/> <tg lang="mdf"><t>нареч. мяльфтома, мялень апак шарфтт</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">безропотно</l><phonet>безроʼпотно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>апак пеняцяк, валонь апак аст, виде ваймот</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">безусловно</l><phonet>безуслоʼвно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>мезе афоль уле, афкукс, аш месть корхтамска</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">бережно</l><phonet>беʼрежно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>ванфтозь, ужяльдезь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">бесперебойно</l><phonet>бесперебоʼйно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>фалу, апак лотксек</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">беспечно</l><phonet>беспеʼчно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>апак пичедть, апак ризнак, прянь апак сярядьфтть</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">бесплатно</l><phonet>бесплаʼтно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>питнефтома, стак, ярмакфтома</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">беспощадно</l><phonet>беспощаʼдно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>апак ужяльдть</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">благосклонно</l><phonet>благосклоʼнно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>паронь арьсезь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">больно</l><phonet>боʼльно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>маряйста, сярядиста (болезненно); </t></tg> <xg> <ru>мне больно</ru> <tg lang="mdf"><t>тейне маряй; </t></tg> </xg> <xg> <ru>разг. не делать больно</ru> <tg lang="mdf"><t>аф тиемс сярядьф</t></tg> </xg> </mg> <mg idNo="2"> <defNative/> <tg lang="mdf"><t> разг. пяк (очень, сильно); </t></tg> </mg> <mg idNo="3"> <defNative/> <tg lang="mdf"><t> кс маряй </t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">бревно</l><phonet>бревноʼ</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>шочка</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">буквально</l><phonet>букваʼльно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>валда-валс (дословно); </t></tg> </mg> <mg idNo="2"> <defNative/> <tg lang="mdf"><t> ёфси (абсолютно)</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">бурно</l><phonet>буʼрно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>вишкста, вииста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">важно</l><phonet>ваʼжно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>эряви (нужно):<b> это важно</b> тя эряви; <b>важно знать</b> эряви содамс; </t></tg> </mg> <mg idNo="2"> <defNative/> <tg lang="mdf"><t> прянь няезь, оцюлгофнезь (высокомерно): <b>сидеть важно</b> ащемс прянь няезь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">вечно</l><phonet>веʼчно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>эряфоньперьф (всю жизнь);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>разг. фалу (всегда, постоянно)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">взаимно</l><phonet>взаиʼмно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>каршек, кафцьке пяльде, фкя-фкянди</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">видно</l><phonet>виʼдно</phonet> </lg> кс, прил.  <mg> <defNative/> <tg lang="mdf"><t>няеви, няевихть</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">видно</l><phonet>виʼдно</phonet> </lg> вводн. сл.  <mg> <defNative/> <tg lang="mdf"><t>улема, шять</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">включительно</l><phonet>включиʼтельно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>молемс, самс</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">вкусно</l><phonet>вкуʼсно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>танцти, танцтиста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">внятно</l><phonet>вняʼтно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>шарьхкодевиста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">возможно</l><phonet>возмоʼжно</phonet> </lg> кс, прил.  <mg> <defNative/> <tg lang="mdf"><t>ули кода, тиеви</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">возможно</l><phonet>возмоʼжно</phonet> </lg> вводн. сл.  <mg> <defNative/> <tg lang="mdf"><t>пади, шять</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">волокно</l><phonet>волокноʼ</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>мушка, сяльге</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">вразумительно</l><phonet>вразумиʼтельно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>шарьхкодевиста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">временно</l><phonet>вреʼменно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>аф фалу, аф ламос, аф куватьс, пингс</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">вторично</l><phonet>вториʼчно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>омбоцеда</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">выразительно</l><phonet>выразиʼтельно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>шарьхкодевиста, мазыста, цебярьста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">высокомерно</l><phonet>высокомеʼрно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>прянь няезь, прянь шнафтозь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">гласно</l><phonet>глаʼсно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>сембонь ингольде, марявиста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">глубокомысленно</l><phonet>глубокомыʼсленно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>лац арьсефста, пяк арьсезь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">голословно</l><phonet>голослоʼвно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>аш мезенксонга, стак ащемда</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">громогласно</l><phonet>громоглаʼсно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>кайгиста, марявиста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">грязно</l><phonet>гряʼзно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>ърдазу, ърдазуста; ърдаз</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">гумно</l><phonet>гумноʼ</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>тинге</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">давно</l><phonet>давноʼ</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>кунара</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">действительно</l><phonet>действиʼтельно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>виде, афкукс</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">детально</l><phonet>детаʼльно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>педа-пес, лац-ряц</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">дивно</l><phonet>диʼвно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>пяк парста, пяк мазыста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">дно</l><phonet>дно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>потмакс <b>вверх дном</b> прянц лангс, комада, комафтозь; <b> всё пошло вверх дном</b> сембось шорявсь; <b>идти ко дну</b> тумс потмаксу, ваямс; юмамс</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">добровольно</l><phonet>добровоʼльно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>эсь мяльса, эсь воля</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">доброжелательно</l><phonet>доброжелательно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>паронь арьсезь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">добросовестно</l><phonet>добросоʼвестно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>виде ваймоса</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">довольно</l><phonet>довоʼльно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>саты, сатомшка (достаточно);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>императив саты, панде</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">досконально</l><phonet>досконаʼльно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>педа-пес, пяк лац</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">дословно</l><phonet>дослоʼвно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>валда-валс</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">досрочно</l><phonet>досроʼчно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>пингта инголе</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">достаточно</l><phonet>достаʼточно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>сатомшка, саты (в достатке);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>императив: Саты! Панде! (Хватит! Прекрати!)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">дружно</l><phonet>друʼжно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>ладязь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">душевно</l><phonet>душеʼвно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>седи вакска, оцю мяльса</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">душно</l><phonet>дуʼшно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>опана</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">единовременно</l><phonet>единовреʼменно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>марса, фкя пингста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">единогласно</l><phonet>единоглаʼсно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>фкакс, фкя лаца</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">ежегодно</l><phonet>ежегоʼдно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>эрь кизоня</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">ежедневно</l><phonet>ежеднеʼвно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>эрь шиня</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">ежемесячно</l><phonet>ежемеʼсячно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>эрь ковня</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">естественно</l><phonet>естеʼственно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>кода эряви, эсь койса, кода эряй</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">жалобно</l><phonet>жаʼлобно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>пеняцязь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">желательно</l><phonet>желаʼтельно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>эряви, эряволь, пароль, пара улель ба</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">живописно</l><phonet>живопиʼсно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>мазыста, мялень кеподезь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">заблаговременно</l><phonet>заблаговреʼменно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>инголькиге, эсь пингстонза</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">заглазно</l><phonet>заглаʼзно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>фталга, аф сельмос</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">зажиточно</l><phonet>зажиʼточно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>козяста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">заметно</l><phonet>замеʼтно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>няевиста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">замечательно</l><phonet>замечаʼтельно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>пяк цебярьста, пяк лац</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">заодно</l><phonet>заодноʼ</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>марса, фкя лаца (вместе, одинаково);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>сияк, тяка пингть (одновременно)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">затемно</l><phonet>заʼтемно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>шобдаста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">звено</l><phonet>звеноʼ</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>пялькс (часть);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>звена (коллектив)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">зги: ни зги не видно</l><phonet>зги: ни зги не видно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>мезевок аф няеви</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">зерно</l><phonet>зерноʼ</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>собир. сёра (урожай злаковых);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>видьме (семя колоса)<b> рациональное зерно</b> инь эрявикссь</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">искусно</l><phonet>искуʼсно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>маштозь, пяк лац/пяк мазыста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">колено</l><phonet>колеʼно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>пълманжа (сустав между бедром и голенью);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>эль (часть ноги между бедром и голенью);</t></tg></mg><mg idNo="3"> <defNative/> <tg lang="mdf"><t>пялькс, эзне (часть, ячейка);</t></tg></mg><mg idNo="4"> <defNative/> <tg lang="mdf"><t>шаролкс (изгиб);</t></tg></mg><mg idNo="5"> <defNative/> <tg lang="mdf"><t>колена (поколение)</t></tg></mg><mg><defNative/><t lang="mdf"/></mg><mg><defNative/><t lang="mdf"/></mg><mg><defNative/><t lang="mdf"/></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">коллективно</l><phonet>коллектиʼвно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>марса</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">конечно</l><phonet>конеʼчно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>стане, мъле, кода мъле</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">кровно</l><phonet>кроʼвно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>пяк</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">крупно</l><phonet>круʼпно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>оцюста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">ладно</l><phonet>лаʼдно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>нареч. ладязь, парста, марса (дружно);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>частица пара, улеза тяфта (пусть, пускай)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">легкомысленно</l><phonet>легкомыʼсленно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>апак арьсек</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">лично</l><phonet>лиʼчно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>эсь сельмоса (своими глазами), эсь пилеса (своими ушами);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>кядьста кядьс (из рук в руки, собственноручно), аф ломань вельде (не через людей);</t></tg></mg><mg idNo="3"> <defNative/> <tg lang="mdf"><t>эстейть: самс, васьфтемс… (самому: быть, встретить…)</t></tg></mg><mg><defNative/><t lang="mdf"/></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">лоно</l><phonet>лоʼно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>масторэшкс</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">мгновенно</l><phonet>мгновеʼнно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>эстокиге</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">медленно</l><phonet>меʼдленно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>валом, валомне, савор, саворне</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">мерно</l><phonet>меʼрно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>аф эряскодозь, фкя лаца</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">многократно</l><phonet>многокраʼтно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>ламоксть, аф весть</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">можно</l><phonet>моʼжно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>ули кода</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">молниеносно</l><phonet>молниеноʼсно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>ёндолкс, пяк курок</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">моментально</l><phonet>моментаʼльно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>эстокиге, пяк курок</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">монотонно</l><phonet>монотоʼнно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>мътърдозь, вайгялень апак полафнек</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">морозно</l><phonet>мороʼзно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>якшама, кельме</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">мысленно</l><phonet>мыʼсленно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>эсь пачка, эсь потмова</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">наверно</l><phonet>навеʼрно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>улема, шять</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">навечно</l><phonet>навеʼчно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>куломозт, сембе эрямозт</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">надменно</l><phonet>надмеʼнно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>прянь няезь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">напрасно</l><phonet>напраʼсно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>стак ащемда, аш мезенксонга, стак</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">нарочно</l><phonet>нароʼчно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>рахсемга, нарошна, аф ёру</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">небрежно</l><phonet>небреʼжно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>кальдявста (неряшливо);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>аф мяль вельде (нехотя)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">неважно</l><phonet>неваʼжно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>аф пяк кода, аф пяк лац (плоховато);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>аф пяк кодама (несущественно)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">невозможно</l><phonet>невозмоʼжно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>аш кода, аф кирдемшка</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">невольно</l><phonet>невоʼльно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>эсьотям, эсезонза</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">негласно</l><phonet>неглаʼсно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>салава</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">недостаточно</l><phonet>недостаʼточно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>нареч. аф сатомшка (не основательно, некачественно);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>числит. кържа (мало, небольшое количество)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">нежно</l><phonet>неʼжно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>ляпоняста, кельгозь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">незаконно</l><phonet>незакоʼнно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>законфтома, закононь колазь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">незаметно</l><phonet>незамеʼтно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>аф няемга, салава (тайком);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>пяк курок (очень быстро)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">неизменно</l><phonet>неизмеʼнно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>прокс, фалу</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">неладно</l><phonet>нелаʼдно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>нареч. кальдявста, аф кода (плохо);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>кс аф пара (дурно)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">нелегально</l><phonet>нелегаʼльно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>кяшендезь, салава</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">немедленно</l><phonet>немеʼдленно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>эстокиге, курок</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">неоднократно</l><phonet>неоднокраʼтно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>аф весть, ламоксть</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">неохотно</l><phonet>неохоʼтно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>аф мяль вельде</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">непременно</l><phonet>непремеʼнно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>мезе тяза уле, апак вана/ватт мезень/кинь лангс</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">непрерывно</l><phonet>непрерыʼвно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>апак лотксек</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">нервно</l><phonet>неʼрвно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>кяжиякшнезь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">несвязно</l><phonet>несвяʼзно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>кода повсь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">несомненно</l><phonet>несомнеʼнно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>ули стане</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">нестройно</l><phonet>нестроʼйно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>кода повсь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">неуверенно</l><phonet>неувеʼренно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>аф кемазь, пелезь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">неудобно</l><phonet>неудоʼбно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>аф пара</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">неуклонно</l><phonet>неуклоʼнно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>фалу, апак лотксек</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">неустанно</l><phonet>неустаʼнно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>апак лотксек, апак сизек</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">неусыпно</l><phonet>неусыʼпно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>оржаста, прокс, фалу</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">нечаянно</l><phonet>нечаʼянно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>апак содак, апак учт, апак фатяк</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">нещадно</l><phonet>нещаʼдно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>апак ужяльдть, пяк вииста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">неясно</l><phonet>неяʼсно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>аф шарьхкодевиста (без чёткости);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>безл. аф шарьхкодеви (непонятно)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">нудно</l><phonet>нуʼдно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>машнефтезь, мялень мольфтезь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">нужно</l><phonet>нуʼжно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>эряви</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">обидно</l><phonet>обиʼдно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>ужяль</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">обособленно</l><phonet>обосоʼбленно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>башка</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">обратно</l><phonet>обраʼтно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>меки</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">обстоятельно</l><phonet>обстояʼтельно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>сембе ширде, лац</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">обычно</l><phonet>обыʼчно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>сидеста, фалу</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">одновременно</l><phonet>одновремеʼнно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>вихцок, фкя пингста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">окно</l><phonet>окноʼ</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>вальмя <b>под окном</b> вальмала</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">окончательно</l><phonet>окончаʼтельно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>ёфси, марнек (абсолютно);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>мекольцеда (в последний раз, в итоге)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">оно</l><phonet>оно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>сон</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">опасно</l><phonet>опаʼсно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>пелькс</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">основательно</l><phonet>основаʼтельно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>лац, парста, цебярьста (хорошо);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>марнек, педа-пес (основательно, до конца)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">особенно</l><phonet>осоʼбенно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>лиякс (по-другому, не как обычно);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>сембода пяк (исключительно)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">осторожно</l><phonet>остороʼжно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>саворне, валомне</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">отдельно</l><phonet>отдеʼльно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>башка</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">отлично</l><phonet>отлиʼчно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>кс пяк пара, пяк цебярь;</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>нареч. пяк лац, пяк парста, пяк цебярьста</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">относительно</l><phonet>относиʼтельно</phonet> </lg> предлог  <mg> <defNative/> <tg lang="mdf"><t>коряс; кувалма</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">охотно</l><phonet>охоʼтно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>мяль вельде, пара мяльса</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">очевидно</l><phonet>очевиʼдно</phonet> </lg> вводн.сл.  <mg> <defNative/> <tg lang="mdf"><t>улема, афоли</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">письменно</l><phonet>пиʼсьменно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>сёрмадфста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">плавно</l><phonet>плаʼвно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>састоне, саворне</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">плодотворно</l><phonet>плодотвоʼрно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>сатфксуста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">повсеместно</l><phonet>повсемеʼстно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>сембе вастова</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">поголовно</l><phonet>поголоʼвно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>марнек, сембе, фкяньпес</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">подобно</l><phonet>подоʼбно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>лаца; кодяма</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">подробно</l><phonet>подроʼбно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>лац-ряц, педа-пес; келиста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">поимённо</l><phonet>поимённо</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>лемса, лемонь кундазь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">покорно</l><phonet>покоʼрно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>коронь кирдезь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">полезно</l><phonet>полеʼзно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>лезды, ярашты</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">полено</l><phonet>полеʼно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>поляна, пенгеполяна</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">полно</l><phonet>полноʼ</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>лама, пяшксе <b>полным-полно</b> пяк лама, пефтома</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">полотно</l><phonet>полотноʼ</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>котф (ткань);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>ки (дорога);</t></tg></mg><mg idNo="3"> <defNative/> <tg lang="mdf"><t>картина (картина)</t></tg></mg><mg><defNative/><t lang="mdf"/></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">понятно</l><phonet>поняʼтно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>шарьхкодевиста (доходчиво);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>в знач. сказ. шарьхкодень; шарьхкодеви (я понял; ясно)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">попарно</l><phonet>попаʼрно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>кафтонь, кафтонь-кафтонь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">попеременно</l><phonet>поперемеʼнно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>полас-полас, полафнезь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">попутно</l><phonet>попуʼтно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>ётампачк, сияк</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">порядочно</l><phonet>поряʼдочно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>лама (много);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>лац, цебярьста, парста, ломанькс (хорошо, прилично, по-человечески);</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">последовательно</l><phonet>послеʼдовательно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>мельцек (один за другим);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>лац арьсефста (обоснованно)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">постоянно</l><phonet>постояʼнно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>фалу</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">почтительно</l><phonet>почтиʼтельно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>мяль ванозь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">поштучно</l><phonet>поштуʼчно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>тифтень, фкянь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">правильно</l><phonet>праʼвильно</phonet> </lg> прил., нареч.  <mg> <defNative/> <tg lang="mdf"><t>виде; видеста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">превратно</l><phonet>превраʼтно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>меколангт, аф видеста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">преждевременно</l><phonet>преждевреʼменно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>пингта инголе</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">приблизительно</l><phonet>приблизиʼтельно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>малава</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">прилично</l><phonet>прилиʼчно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>лац, цебярьста, коень коряс</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">примерно</l><phonet>примеʼрно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>лац, цебярьста (образцово);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>пъцтай (около)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">пристально</l><phonet>приʼстально</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>оржаста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">пристойно</l><phonet>пристоʼйно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>лац, лац прянь вятезь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">проворно</l><phonet>провоʼрно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>эрязста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">продолжительно</l><phonet>продолжиʼтельно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>ламос, куватьс</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">продуктивно</l><phonet>продуктиʼвно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>лац, ламонь тиезь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">произвольно</l><phonet>произвоʼльно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>эсьотям</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">противно</l><phonet>протиʼвно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>нареч. нулгодезь (брезгливо);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>прилаг., <pos>сущ.</pos> нулгодькс, туткодкс <b>мне противно</b> туткодан</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">прочно</l><phonet>проʼчно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>кемоста, нардьста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">публично</l><phonet>публиʼчно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>ломань инголе/пингста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">пшено</l><phonet>пшеноʼ</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>ямкс, ямкст</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">пыльно</l><phonet>пыʼльно</phonet> </lg> кс; прилаг.  <mg> <defNative/> <tg lang="mdf"><t>пуль; пулю</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">рано</l><phonet>раʼно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>пингта инголе, рана (досрочно; преждевременно);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>кунара (давно);</t></tg></mg><mg idNo="3"> <defNative/> <tg lang="mdf"><t>безл. аф пинге (не время ещё)</t></tg></mg><mg><defNative/><t lang="mdf"/></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">регулярно</l><phonet>регуляʼрно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>фалу, пачк, най</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">ровно</l><phonet>роʼвно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>нареч. видеста (прямо);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>нареч. лапшста, ровнайста (гладко);</t></tg></mg><mg idNo="3"> <defNative/> <tg lang="mdf"><t>нареч. фкакс (поровну);</t></tg></mg><mg idNo="4"> <defNative/> <tg lang="mdf"><t>нареч. ёфси (совсем);</t></tg></mg><mg idNo="5"> <defNative/> <tg lang="mdf"><t>союз кода, ёфси, бъта (словно, будто)</t></tg></mg><mg><defNative/><t lang="mdf"/></mg><mg><defNative/><t lang="mdf"/></mg><mg><defNative/><t lang="mdf"/></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">свободно</l><phonet>свобоʼдно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>воляса, воляшиса (без ограничений, без препятствий);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>тёждяста (легко)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">своевременно</l><phonet>своевреʼменно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>эсь пингстонза</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">связно</l><phonet>свяʼзно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>шарьхкодевиста, лац, парста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">сено</l><phonet>сеʼно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>тише</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">сердечно</l><phonet>сердеʼчно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>седивакска, седишкава</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">скромно</l><phonet>скроʼмно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>сетьмоста, виздезь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">следовательно</l><phonet>слеʼдовательно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>тяста няеви, тянь коряс</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">слитно</l><phonet>слиʼтно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>марса</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">словно</l><phonet>слоʼвно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>союз кода, бъта (как) <b>словно камень</b> кода/бъта кев;</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>частица, прост. роди (как будто, вроде) <b>Словно стучит кто.</b> Роди чакайхть.</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">случайно</l><phonet>случаʼйно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>апак содак/апак учт/апак фатяк</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">сносно</l><phonet>сноʼсно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>кирдемшка</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">совестно</l><phonet>соʼвестно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>визькс</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">согласно</l><phonet>соглаʼсно</phonet> </lg> нареч., предлог  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>ладязь, фкя мяльса, марса (дружно);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>предлог коряс <b>согласно закону</b> коень коряс</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">согласованно</l><phonet>согласоʼванно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>ладязь, фкя мяльса</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">сознательно</l><phonet>сознаʼтельно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>шарьхкодезь, содазь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">соразмерно</l><phonet>соразмеʼрно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>арьсефста, уликсонь коряс</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">спокойно</l><phonet>спокоʼйно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>нареч. сетьмоста (тихо, в состоянии покоя);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>нареч. сятявста (покорно, молча, смирно);</t></tg></mg><mg idNo="3"> <defNative/> <tg lang="mdf"><t>прилаг., кс сетьме, кашт аф моли (покорный, молчаливый, смирный)</t></tg></mg><mg><defNative/><t lang="mdf"/></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">страстно</l><phonet>страʼстно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>пяк, вииста, кемоста, псиста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">страшно</l><phonet>страʼшно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>пелькс</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">стыдно</l><phonet>стыʼдно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>визькс, визьксшама</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">судорожно</l><phonet>суʼдорожно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>търнатозь, вачкатозь (в судороге);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>перен. эряскодозь (спешно)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">таинственно</l><phonet>таиʼнственно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>салава (тайно);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>безл. аф шарьхкодеви (загадочно, не познано);</t></tg></mg><mg idNo="3"> <defNative/> <tg lang="mdf"><t>арьсефтезь (задумчиво)</t></tg></mg><mg><defNative/><t lang="mdf"/></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">тайно</l><phonet>таʼйно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>салава</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">темно</l><phonet>темноʼ</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>шобда</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">тесно</l><phonet>теʼсно</phonet> </lg> нареч., кс  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>пяк малав/малас (вплотную);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>кемоста (прочно, тесными узами);</t></tg></mg><mg idNo="3"> <defNative/> <tg lang="mdf"><t>кс вастсь аф саты, тесна</t></tg></mg><mg><defNative/><t lang="mdf"/></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">толокно</l><phonet>толокноʼ</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>пинемпочф</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">точно</l><phonet>тоʼчно</phonet> </lg> <pos>нареч.</pos>  <mg> <defNative/> <tg lang="mdf"><t>видеста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">точно</l><phonet>тоʼчно</phonet> </lg> союз  <mg> <defNative/> <tg lang="mdf"><t>бъта, кода, кода бъта</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">трогательно</l><phonet>троʼгательно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>седиень токазь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">трудно</l><phonet>труʼдно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>стака</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">туманно</l><phonet>тумаʼнно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>сюнера</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">тщательно</l><phonet>тщаʼтельно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>педа-пес; лац-ряц</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">уверенно</l><phonet>увеʼренно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>содазь, кемазь, апак пельхть</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">увлекательно</l><phonet>увлекаʼтельно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>оцю/пара мяльса</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">углублённо</l><phonet>углублённо</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>кърхкаста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">угодно</l><phonet>угоʼдно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>кс эряви (нужно, желательно);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>частица сембе сяка (всё равно/безразлично) <b>где угодно</b> сембе сяка коса; <b>какой угодно</b> сембе сяка кодама, кодамо мяльце</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">удобно</l><phonet>удоʼбно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>нареч. пара (легко, приятно);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>кс ули кода (возможно, уместно, прилично)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">ужасно</l><phonet>ужаʼсно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>пяк кальдявста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">уместно</l><phonet>умеʼстно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>ули кода, вастсонза, ладяй, пара</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">умышленно</l><phonet>умыʼшленно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>инголи арьсезь; кяжда</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">успешно</l><phonet>успеʼшно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>лац, цебярьста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">утвердительно</l><phonet>утвердиʼтельно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>кемокстазь, аф карша</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">утомительно</l><phonet>утомиʼтельно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>нареч. стакаста, сизефста; прилаг., кс стака</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">холодно</l><phonet>хоʼлодно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>кс якшама, кельме (не тепло);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>перен. кельмоста (равнодушно, безразлично)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">чудно</l><phonet>чуʼдно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>кс, прилаг. пара, пяк пара/пяк цебярь; нареч. пяк цебярьста/пяк лац</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">явно</l><phonet>яʼвно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>няемга, апак кяшенде, апак сёпонда, аф пелезь, аф виздезь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">явственно</l><phonet>яʼвственно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>няевиста, шарьхкодевиста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">яростно</l><phonet>яʼростно</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>пяк кяжиста, кяжень сазь</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">ясно</l><phonet>яʼсно</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>кс, прилаг. мани (светло, безоблачно); шарьхкодеви (понятно);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>нареч. шарьхкодевиста (доступно, понятно);</t></tg></mg><mg idNo="3"> <defNative/> <tg lang="mdf"><t>частица ули тяфта</t></tg></mg><mg><defNative/><t lang="mdf"/></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">близко</l><phonet>блиʼзко</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>нареч. маласа, аф ичкозе (неподалёку: находиться); малава, аф ичкозьге (рядом: пройти, проехать, пролететь);</t></tg> </mg> <mg idNo="2"> <defNative/> <tg lang="mdf"><t> нареч. малава, лац, цебярьста, седида-седис (душевно);</t></tg> </mg> <mg idNo="3"> <defNative/> <tg lang="mdf"><t> прилаг. маласа, аф ичкозе (рядом)</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">более</l><phonet>боʼлее</phonet> </lg>  <mg> <defNative/> <ru>(больше)</ru> <tg lang="mdf"><t>нареч. сяда лама, сяда пяк</t></tg> <x> <ru>всё более и более</ru> <tg lang="mdf"><t>сембе сяда лама; сембе сяда пяк</t></tg> </x> </mg> <mg> <defNative/> <ru>при образовании сравнительной степени</ru> <tg lang="mdf"><t>сяда</t></tg> <x> <ru>более сильный</ru> <tg lang="mdf"><t>сяда вии</t></tg> </x> </mg>  </e>
+<e> <lg> <l pos="Adv">больше</l><phonet>боʼльше</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>сравн. ст. (к <b>большой</b>) сяда оцю; </t></tg> </mg> <mg idNo="2"> <defNative/> <tg lang="mdf"><t> сравн. ст. (к <b>много</b>) сяда лама; </t></tg> </mg> <mg idNo="3"> <defNative/> <tg lang="mdf"><t> нареч. оду, сяда тов (в другой раз)</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">вдоль</l><phonet>вдоль</phonet> </lg> <pos>нареч.</pos>  <mg> <defNative/> <tg lang="mdf"><t>кувалмос <b>вдоль и поперёк</b> нучк-пачк, туркс-накось</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">видимо</l><phonet>виʼдимо</phonet> </lg> <pos>нареч.</pos>  <mg> <defNative/> <tg lang="mdf"><t>няевиста, няемшка <b>видимо-невидимо</b> лама, пефтома</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">внутри</l><phonet>внутриʼ</phonet> </lg> <pos>нареч.</pos>  <mg> <defNative/> <tg lang="mdf"><t>потмоса</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">внутрь</l><phonet>внутрь</phonet> </lg> <pos>нареч.</pos>  <mg> <defNative/> <tg lang="mdf"><t>потмос, потму</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">возле</l><phonet>воʼзле</phonet> </lg> <pos>нареч.</pos>  <mg> <defNative/> <tg lang="mdf"><t>маласа, ваксса</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">вокруг</l><phonet>вокруʼг</phonet> </lg> <pos>нареч.</pos>  <mg> <defNative/> <tg lang="mdf"><t>перьфпяле; перьфпяли</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">впереди</l><phonet>впередиʼ</phonet> </lg> <pos>нареч.</pos>  <mg> <defNative/> <tg lang="mdf"><t>инголе</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">всё</l><phonet>всё</phonet> </lg> <pos>нареч.</pos>  <mg> <defNative/> <tg lang="mdf"><t>коль, нинге (пока, ещё) <b>всё равно</b> сембе сяка</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">вслед</l><phonet>вслед</phonet> </lg> <pos>нареч.</pos>  <mg> <defNative/> <tg lang="mdf"><t>мельге (следом)</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">где</l><phonet>где</phonet> </lg> <pos>нареч.</pos>  <mg> <defNative/> <tg lang="mdf"><t>коса <b>где бы то ни было</b> коса тяза уле, эрь коса</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">жарко</l><phonet>жаʼрко</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>нареч. псиста (горячо);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>кс пси</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">зло</l><phonet>зло</phonet> </lg> <pos>нареч.</pos>  <mg> <defNative/> <tg lang="mdf"><t>кяжиста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">иначе</l><phonet>инаʼче</phonet> </lg> <pos>нареч.</pos>  <mg> <defNative/> <tg lang="mdf"><t>лиякс <b>так или иначе</b> сембе сяка</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">кругом</l><phonet>кругоʼм</phonet> </lg> <pos>нареч.</pos>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>шарксса (поворотом);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>перьфпяле, ков тят варжакста (всюду, во всей округе);</t></tg></mg><mg idNo="3"> <defNative/> <tg lang="mdf"><t>сембоса (во всём)</t></tg></mg><mg><defNative/><t lang="mdf"/></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">кстати</l><phonet>кстаʼти</phonet> </lg> <pos>нареч.</pos>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>фчёк (подходяще);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>ётампачк, сияк (попутно)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">легко</l><phonet>легкоʼ</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>нареч. тёждяста (без проблем);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>кс тёждя (безмятежно, спокойно)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">лишь</l><phonet>лишь</phonet> </lg> <pos>нареч.</pos>  <mg> <defNative/> <tg lang="mdf"><t>аньцек</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">мимо</l><phonet>миʼмо</phonet> </lg> <pos>нареч.</pos>  <mg> <defNative/> <tg lang="mdf"><t>вакска</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">накануне</l><phonet>накануʼне</phonet> </lg> <pos>нареч.</pos>  <mg> <defNative/> <tg lang="mdf"><t>ингольдень/алдонь шить</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">нарасхват</l><phonet>нарасхваʼт</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>нареч. фатязь, цопадезь, инголдазь (стараться получить первым);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>в знач. сказ. пяк эрявикс (пользующийся большим спросом)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">несколько</l><phonet>неʼсколько</phonet> </lg> <pos>нареч.</pos>  <mg> <defNative/> <tg lang="mdf"><t>аф ламода (отчасти)</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">низко</l><phonet>ниʼзко</phonet> </lg> <pos>нареч.</pos>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>ала (внизу);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>алга (понизу);</t></tg></mg><mg idNo="3"> <defNative/> <tg lang="mdf"><t>алу (вниз);</t></tg></mg><mg idNo="4"> <defNative/> <tg lang="mdf"><t>визьксфтома, аф ломанькс;</t></tg></mg><mg idNo="5"> <defNative/> <tg lang="mdf"><t>кс, прилаг. визькс (бесстыдно)</t></tg></mg><mg><defNative/><t lang="mdf"/></mg><mg><defNative/><t lang="mdf"/></mg><mg><defNative/><t lang="mdf"/></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">ничего</l><phonet>ничегоʼ</phonet> </lg> <pos>нареч.</pos>  <mg> <defNative/> <tg lang="mdf"><t>аф кальдявста, валомне, саворне (терпимо, неплохо)</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">один</l><phonet>одиʼн</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>числит. фкя;</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>местоим. фкя, кодама-бди (некий);</t></tg></mg><mg idNo="3"> <defNative/> <tg lang="mdf"><t>нареч. башка, ськамонза (отдельно) <b>один на один</b> сельмода сельмос, карань-каршек</t></tg></mg><mg><defNative/><t lang="mdf"/></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">около</l><phonet>оʼколо</phonet> </lg> <pos>нареч.</pos>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>ваксса, маласа ( с глаг. быть, находиться);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>вакска, малава (с глаг. пройти, проехать)<b> вокруг да около</b> аф видеста</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">по</l><phonet>по</phonet> </lg> предлог  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>с дат. п-жом со знач. пространства передаётся послелогами ланга, эзга или ф. переместит. п-жа: <b>идти по дороге</b> молемс кить ланга (эзга), молемс киге;</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>с дат. п. со знач. объекта передается послелогами ланга, коряс: <b>ударить по руке</b> эрьхтемс кядь ланга, <b>узнать по глазам</b> шарьхкодемс сельмонь коряс, а также ф. дат. п-жа притяжательного склонения: <b>скучать по матери</b> лажадомс тядяцти; наречием: <b>скучать по дому</b> лажадомс куду;</t></tg></mg><mg idNo="3"> <defNative/> <tg lang="mdf"><t>с дат. п-жом со знач. обстоятельства причины, образа действия передается послелогом сюнеда: <b>по болезни</b> урмань/сярядемань сюнеда; ф. мест. п-жа: <b>назвать по имени</b> азомс/пъшкядемс лемса;</t></tg></mg><mg idNo="4"> <defNative/> <tg lang="mdf"><t>с дат. п. (при числительных) передается ф. родит. п-жа: <b>по пяти</b> ветень, ветень-ветень; <b>по десяти</b> кемонень, кемонень-кемонень;</t></tg></mg><mg idNo="5"> <defNative/> <tg lang="mdf"><t>с винит. п. при обстоятельственно-определительном значении передается формой переместительного падежа (с послелогом видева и без него): <b>занят по горло</b> тевда кърга видева, <b>воды по</b> <b>пояс</b> ведсь карксэземга;</t></tg></mg><mg idNo="6"> <defNative/> <tg lang="mdf"><t>с винит. п-жом. со значением цели передается направит.-вносит. п-жом или послелогом мельге: <b>по грибы</b> пангс, панга мельге</t></tg></mg><mg><defNative/><t lang="mdf"/></mg><mg><defNative/><t lang="mdf"/></mg><mg><defNative/><t lang="mdf"/></mg><mg><defNative/><t lang="mdf"/></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">поверх</l><phonet>повеʼрх</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>предлог ланга, вярьге, вельхкска (над);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>нареч. вяре, вельхксса (наверху, сверху)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">под</l><phonet>под</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>с творит. п-жом. со знач. пространства передается послелогами ала, алга: <b>под столом (лежать)</b> шрать ала; <b>под рукой</b> кядь ала;<b> под мостом (пройти</b>) седть алга;</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>с винит. п-жом. со знач. времени передается послелогами пяли, шири или наречиями: <b>под вечер</b> илядень пяли (шири), иляденди <b>под осень</b> сексе пяли (шири);</t></tg></mg><mg idNo="3"> <defNative/> <tg lang="mdf"><t>с винит. п-жом со знач. количества передается ф. сравнит. п-жа: <b>ему под сорок лет</b> тейнза нильгемоньшка киза</t></tg></mg><mg><defNative/><t lang="mdf"/></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">после</l><phonet>поʼсле</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>нареч. меле (потом) <b>зайти потом</b> сувамс меле;</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>предлог меле, мельге (за кем/чем либо) <b>после моей матери</b> тядядон меле/тядязень мельге; <b>после дождя</b> пиземда меле</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">просто</l><phonet>проʼсто</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>нареч. тёждяста (легко, без труда);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>прилаг. тёждя, аф стака (лёгкий);</t></tg></mg><mg idNo="3"> <defNative/> <tg lang="mdf"><t>частица аньцек (только, лишь)<b> просто так</b> тяфтак</t></tg></mg><mg><defNative/><t lang="mdf"/></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">раз</l><phonet>раз</phonet> </lg> <pos>нареч.</pos>  <mg> <defNative/> <tg lang="mdf"><t>весть, кода-бди (однажды)</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">свыше</l><phonet>свыʼше</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>нареч. вярде (сверху: от начальника; от всевышнего);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>предлог вельф, лама (больше) <b>свыше пяти</b> ветеда лама</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">следом</l><phonet>слеʼдом</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>нареч. мельге (вслед) <b>идти следом</b> молемс мельге;</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>предлог мельге, меле (вслед за кем-/чем- либо) <b>следом за этим</b> тянь мельге/тяда меле</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">тепло</l><phonet>теплоʼ</phonet> </lg> нареч.; кс  <mg> <defNative/> <tg lang="mdf"><t>лямбста; лямбе</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">уж</l><phonet>уж</phonet> </lg> <pos>нареч.</pos> см. <b>уже</b>  <mg> <defNative/> <t lang="mdf"/>  </mg>  </e>
+<e> <lg> <l pos="Adv">уже</l><phonet>ужеʼ</phonet> </lg> <pos>нареч.</pos>  <mg> <defNative/> <tg lang="mdf"><t>ни</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">хорошо</l><phonet>хорошоʼ</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>кс пара, цебярь (комфортно, приятно);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>нареч. лац, цебярьста (качественно, добротно, со вкусом)</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">худо</l><phonet>хуʼдо</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t><pos>сущ.</pos> кальдяв, стака, зиян (несчастье);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>кс кальдяв, аф пара, стака (плохо, тяжело);</t></tg></mg><mg idNo="3"> <defNative/> <tg lang="mdf"><t>нареч. кальдявста, стакаста (некачественнно; трудно)</t></tg></mg><mg><defNative/><t lang="mdf"/></mg><mg><defNative/><t lang="mdf"/> </mg>  </e>
+<e> <lg> <l pos="Adv">чисто</l><phonet>чиʼсто</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>кс, прилаг. ару; нареч. аруста</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">что</l><phonet>что</phonet> </lg>  <mg idNo="1"> <defNative/> <tg lang="mdf"><t>местоим. мезе (вопросительное слово);</t></tg></mg><mg idNo="2"> <defNative/> <tg lang="mdf"><t>в знач. нареч. мес (почему) <b>Что так долго?</b> Мес ламос? <b>ни за что</b> мезьдонга аф; <b> ни</b> <b>к чему</b> аш мезенди, аф эряви; <b>пока что</b> мзярс нинге; <b>что бы то</b> <b>ни было</b> мезе тяза уле; <b>что за.</b>.. мезе тя/ся…</t></tg></mg><mg><defNative/><t lang="mdf"/> </mg> </e>
+<e> <lg> <l pos="CS">что</l><phonet>что</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>союз къле, што</t></tg> </mg>  </e>
+<e> <lg> <l pos="Adv">ярко</l><phonet>яʼрко</phonet> </lg>  <mg> <defNative/> <tg lang="mdf"><t>кс, прилаг. валда; нареч. валдста</t></tg> </mg>  </e>
+
+</r>
