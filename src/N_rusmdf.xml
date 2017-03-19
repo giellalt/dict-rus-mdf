@@ -436,7 +436,8 @@
 <e> <lg> <l pos="N">глаз</l><phonet>глаз</phonet> </lg>  <mg idNo="1"> <defNative/> <tg xml:lang="mdf"><t>сельме (орган зрения);</t></tg></mg><mg idNo="2"> <defNative/> <tg xml:lang="mdf"><t>перен. ваны, аралай (наблюдатель) <b>бросаться в глаза</b> повондомс сельминголи; <b> на глазах у всех</b> сембонь ингольде; <b>говорить за глаза</b> корхтамс фталга; <b>сказать в глаза</b> азомс сельмос; <b>с глазу на глаз</b> сельмода-сельмос; <b>уставить глаза</b> тетькомс сельмот; <b>не показывать глаз</b> аф няфнемс пря; <b>с глаз долой</b> тумс сельмингольде</t></tg></mg><mg><defNative/><t xml:lang="mdf"/> </mg>  </e>
 <e> <lg> <l pos="N">глазок</l><phonet>глазоʼк</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>сельмоня, ваномс варяня</t></tg> </mg>  </e>
 <e> <lg> <l pos="N">глина</l><phonet>глиʼна</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>сёвонь</t></tg> </mg>  </e>
-<e> <lg> <l pos="N">глист, глиста</l><phonet>глист, глистаʼ</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>сюзял</t></tg> </mg>  </e>
+<e> <lg> <l pos="N">глист</l><phonet>глист, глистаʼ</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>сюзял</t></tg> </mg>  </e>
+<e> <lg> <l pos="N">глиста</l><phonet>глист, глистаʼ</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>сюзял</t></tg> </mg>  </e>
 <e> <lg> <l pos="N">глотка</l><phonet>глоʼтка</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>кълдома, къргапарь</t></tg> </mg>  </e>
 <e> <lg> <l pos="N">глоток</l><phonet>глотоʼк</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>копоркс</t></tg> </mg>  </e>
 <e> <lg> <l pos="N">глубина</l><phonet>глубинаʼ</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>кърхкалма <b>в глубине души</b> седиса, седиге; <b>в глубине веков</b> пяк кунара</t></tg> </mg>  </e>
@@ -1998,7 +1999,8 @@
 <e> <lg> <l pos="N">росток</l><phonet>ростоʼк</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>лисьфкя</t></tg> </mg>  </e>
 <e> <lg> <l pos="N">роща</l><phonet>роʼща</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>нал, пора</t></tg> </mg>  </e>
 <e> <lg> <l pos="N">рубанок</l><phonet>рубаʼнок</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>насторк</t></tg> </mg>  </e>
-<e> <lg> <l pos="N">рубаха, рубашка</l><phonet>рубаʼха, рубаʼшка</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>панар</t></tg> </mg>  </e>
+<e> <lg> <l pos="N">рубаха</l><phonet>рубаʼха, рубаʼшка</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>панар</t></tg> </mg>  </e>
+<e> <lg> <l pos="N">рубашка</l><phonet>рубаʼха, рубаʼшка</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>панар</t></tg> </mg>  </e>
 <e> <lg> <l pos="N">рука</l><phonet>рукаʼ</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>кядь <b>на скорую руку</b> эряскодозь; <b>набить руку</b> тонадомс; <b>не покладая рук</b> апак лотксек, сиземань аф содазь; <b>под рукой</b> маласа, кядь ала; <b>рукой подать</b> аф ичкозе, маласа; <b>сложа руки</b> тевфтома; <b>из рук вон</b> кальдявста</t></tg> </mg>  </e>
 <e> <lg> <l pos="N">рукоделие</l><phonet>рукодеʼлие</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>кядьтев</t></tg> </mg>  </e>
 <e> <lg> <l pos="N">рукопожатие</l><phonet>рукопожаʼтие</phonet> </lg>  <mg idNo="1"> <defNative/> <tg xml:lang="mdf"><t>кядень люпштама;</t></tg></mg><mg idNo="2"> <defNative/> <tg xml:lang="mdf"><t>шумбракстома</t></tg></mg><mg><defNative/><t xml:lang="mdf"/> </mg>  </e>
@@ -2069,11 +2071,14 @@
 <e> <lg> <l pos="N">скала</l><phonet>скалаʼ</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>кевпанда</t></tg> </mg>  </e>
 <e> <lg> <l pos="N">скамейка</l><phonet>скамеʼйка</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>скомня, эземня</t></tg> </mg>  </e>
 <e> <lg> <l pos="N">скачок</l><phonet>скачоʼк</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>комотема</t></tg> </mg>  </e>
-<e> <lg> <l pos="N">скворечник, скворечница, скворечня</l><phonet>сквореʼчник, сквореʼчница, сквореʼчня</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>пъсьмаркуд</t></tg> </mg>  </e>
+<e> <lg> <l pos="N">скворечник</l><phonet>сквореʼчник, сквореʼчница, сквореʼчня</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>пъсьмаркуд</t></tg> </mg>  </e>
+<e> <lg> <l pos="N">скворечница</l><phonet>сквореʼчник, сквореʼчница, сквореʼчня</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>пъсьмаркуд</t></tg> </mg>  </e>
+<e> <lg> <l pos="N">скворечня</l><phonet>сквореʼчник, сквореʼчница, сквореʼчня</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>пъсьмаркуд</t></tg> </mg>  </e>
 <e> <lg> <l pos="N">скидка</l><phonet>скиʼдка</phonet> </lg>  <mg idNo="1"> <defNative/> <tg xml:lang="mdf"><t>каяма, валхтома (снятие надетого, раздевание);</t></tg></mg><mg idNo="2"> <defNative/> <tg xml:lang="mdf"><t>питнень ёрдама/валхтома/кирьфтама (уценка);</t></tg></mg><mg idNo="3"> <defNative/> <tg xml:lang="mdf"><t>вешфксонь лафчептома (уступка, послабление)</t></tg></mg><mg><defNative/><t xml:lang="mdf"/></mg><mg><defNative/><t xml:lang="mdf"/> </mg>  </e>
 <e> <lg> <l pos="N">складка</l><phonet>склаʼдка</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>сърмафкс, модяряфкс</t></tg> </mg>  </e>
 <e> <lg> <l pos="N">склонность</l><phonet>склоʼнность</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>мяль, усол</t></tg> </mg>  </e>
-<e> <lg> <l pos="N">сковорода, сковородка</l><phonet>сковородаʼ, сковороʼдка</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>пачкалга</t></tg> </mg>  </e>
+<e> <lg> <l pos="N">сковорода</l><phonet>сковородаʼ, сковороʼдка</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>пачкалга</t></tg> </mg>  </e>
+<e> <lg> <l pos="N">сковородка</l><phonet>сковородаʼ, сковороʼдка</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>пачкалга</t></tg> </mg>  </e>
 <e> <lg> <l pos="N">скорлупа</l><phonet>скорлупаʼ</phonet> </lg>  <mg idNo="1"> <defNative/> <tg xml:lang="mdf"><t>кедь: алкедь (яичная скорлупа); пештекедь (ореховая скорлупа);</t></tg></mg><mg idNo="2"> <defNative/> <tg xml:lang="mdf"><t>перен. эряфта кяшкс, шоряфкс (нечто ограниченное, замыкающее в узкой среде)</t></tg></mg><mg><defNative/><t xml:lang="mdf"/> </mg>  </e>
 <e> <lg> <l pos="N">скорняк</l><phonet>скорняʼк</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>кедень пети/тии</t></tg> </mg>  </e>
 <e> <lg> <l pos="N">скотник</l><phonet>скоʼтник</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>жуватань/ракшань касфни</t></tg> </mg>  </e>
@@ -2201,7 +2206,8 @@
 <e> <lg> <l pos="N">тайник</l><phonet>тайниʼк</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>кяшема васта</t></tg> </mg>  </e>
 <e> <lg> <l pos="N">так</l><phonet>так</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>тяфта, тяфтане, тяфтак, стане, станяк, стак</t></tg> </mg>  </e>
 <e> <lg> <l pos="N">талия</l><phonet>таʼлия</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>карксэзем</t></tg> </mg>  </e>
-<e> <lg> <l pos="N">танцовщик, танцовщица</l><phonet>танцоʼвщик, танцоʼвщица</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>кштий</t></tg> </mg>  </e>
+<e> <lg> <l pos="N">танцовщик</l><phonet>танцоʼвщик, танцоʼвщица</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>кштий</t></tg> </mg>  </e>
+<e> <lg> <l pos="N">танцовщица</l><phonet>танцоʼвщик, танцоʼвщица</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>кштий</t></tg> </mg>  </e>
 <e> <lg> <l pos="N">тара</l><phonet>таʼра</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>марама васта, кядьге</t></tg> </mg>  </e>
 <e> <lg> <l pos="N">татарка</l><phonet>татаʼрка</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>татарава</t></tg> </mg>  </e>
 <e> <lg> <l pos="N">тёзка</l><phonet>тёзка</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>тёзка, фкакс лем</t></tg> </mg>  </e>
@@ -2361,7 +2367,8 @@
 <e> <lg> <l pos="N">чаща</l><phonet>чаʼща</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>ситерькс, сиде/туста вирь</t></tg> </mg>  </e>
 <e> <lg> <l pos="N">челнок</l><phonet>челноʼк</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>венежкя</t></tg> </mg>  <mg> <defNative/> <tg xml:lang="mdf"><t>каяма</t></tg> </mg>  </e>
 <e> <lg> <l pos="N">человек</l><phonet>человеʼк</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>ломань</t></tg> </mg>  </e>
-<e> <lg> <l pos="N">червь, червяк</l><phonet>червь, червяʼк</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>сукс</t></tg> </mg>  </e>
+<e> <lg> <l pos="N">червь</l><phonet>червь, червяʼк</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>сукс</t></tg> </mg>  </e>
+<e> <lg> <l pos="N">червяк</l><phonet>червь, червяʼк</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>сукс</t></tg> </mg>  </e>
 <e> <lg> <l pos="N">чердак</l><phonet>чердаʼк</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>кудпотмар</t></tg> </mg>  </e>
 <e> <lg> <l pos="N">череда</l><phonet>чередаʼ</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>пинень тише</t></tg> </mg>  </e>
 <e> <lg> <l pos="N">чередование</l><phonet>чередоваʼние</phonet> </lg>  <mg> <defNative/> <tg xml:lang="mdf"><t>полафнезь молема</t></tg> </mg>  </e>
